@@ -11,7 +11,7 @@ public class Program {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		
+		/* Teste apenas um teste*/
 		int n = sc.nextInt();
 		
 		Dados vect [] = new Dados [n];
